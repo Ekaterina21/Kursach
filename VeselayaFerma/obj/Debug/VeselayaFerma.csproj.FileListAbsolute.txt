@@ -1,0 +1,63 @@
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe.config
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csprojResolveAssemblyReference.cache
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormMenu.resources
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Properties.Resources.resources
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csproj.GenerateResource.Cache
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.pdb
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.exe
+c:\users\ekaterina\documents\visual studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.pdb
+C:\Users\Ekaterina\Documents\Visual Studio 2013\Projects\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormLevel1.resources
+D:\Курсач\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe.config
+D:\Курсач\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe
+D:\Курсач\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.pdb
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csprojResolveAssemblyReference.cache
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormLevel1.resources
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormMenu.resources
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Properties.Resources.resources
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csproj.GenerateResource.Cache
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.exe
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.pdb
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\bin\Debug\VeselayaFerma.exe.config
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.exe
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.pdb
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\bin\Debug\VeselayaFerma.exe
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\bin\Debug\VeselayaFerma.pdb
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.csprojResolveAssemblyReference.cache
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.FormLevel1.resources
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.FormMenu.resources
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.Properties.Resources.resources
+D:\Курсач\VeselayaFerma — копия\VeselayaFerma\obj\Debug\VeselayaFerma.csproj.GenerateResource.Cache
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\bin\Debug\VeselayaFerma.exe.config
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.exe
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.pdb
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\bin\Debug\VeselayaFerma.exe
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\bin\Debug\VeselayaFerma.pdb
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.csprojResolveAssemblyReference.cache
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.FormLevel1.resources
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.FormMenu.resources
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.Properties.Resources.resources
+D:\Курсач\VeselayaFerma — не копия\VeselayaFerma\obj\Debug\VeselayaFerma.csproj.GenerateResource.Cache
+D:\Курсач\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Sklad.resources
+E:\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe.config
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.exe
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.pdb
+E:\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe
+E:\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.pdb
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csprojResolveAssemblyReference.cache
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Sklad.resources
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormLevel1.resources
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormMenu.resources
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Properties.Resources.resources
+E:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csproj.GenerateResource.Cache
+F:\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe.config
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.exe
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.pdb
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csprojResolveAssemblyReference.cache
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Sklad.resources
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormLevel1.resources
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.FormMenu.resources
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.Properties.Resources.resources
+F:\VeselayaFerma\VeselayaFerma\obj\Debug\VeselayaFerma.csproj.GenerateResource.Cache
+F:\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.exe
+F:\VeselayaFerma\VeselayaFerma\bin\Debug\VeselayaFerma.pdb
